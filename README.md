@@ -1,17 +1,17 @@
-# Hi there! 👋  
+Hi there! 👋
 
-I'm **Mrityunjay Kumar**, an **aspiring app developer** passionate about building **mobile applications** using **Kotlin & React Native**. Currently in the learning phase, exploring UI/UX, backend integration, and best coding practices.  
+I'm Mrityunjay Kumar, an aspiring MLOps engineer passionate about building scalable machine learning pipelines and deploying models efficiently. Currently learning MLOps concepts, cloud deployment, and automation to bridge the gap between ML and production.
 
-## 🚀 Skills & Technologies  
-- 📱 **Mobile Development:** Kotlin, React Native  
-- 🔙 **Backend:** Firebase, Node.js  
-- 🎨 **UI/UX:** Material Design, Flexbox, Styled Components  
+## 🚀 Skills & Technologies
+   - 🤖 MLOps: ML model deployment, monitoring, and scaling
+   - ☁️ Cloud & DevOps: Docker, Kubernetes, AWS, CI/CD pipelines
+   - 🔧 Machine Learning: Python, TensorFlow, PyTorch
+   - 📊 Data Tools: Pandas, NumPy, MLflow
 
-## 🎯 Learning Goals  
-- Build and publish my first mobile app 📲  
-- Contribute to open-source projects  
-- Master advanced mobile development concepts  
+## 🎯 Learning Goals
+   - Build and deploy a production-ready ML pipeline 🛠️
+   - Automate ML workflows with CI/CD pipelines
+   - Contribute to open-source MLOps projects
 
-## 📫 Let's Connect  
-📧 Email: [mrityunjay7366@gmail.com](mailto:mrityunjay7366@gmail.com)  
-
+## 📫 Let's Connect
+📧 Email: mrityunjay7366@gmail.com
